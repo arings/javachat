@@ -1,0 +1,3 @@
+Main-Class: libs.ChatServer
+Class-Path: jedis-2.9.0.jar commons-pool2-2.5.0.jar
+
